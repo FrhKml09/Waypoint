@@ -2,7 +2,9 @@ Waypoint
 
 (Shown as "TravelMind" in the live app's UI — same project, working title in transition.)
 
-Team: Farah, Tahiya Tasnim, Vesyal, Maryam Ahmed Problem Statement: Travel Planner GitHub Repository: https://github.com/FrhKml09/Waypoint Live Prototype: https://waypoint-snowy-tau.vercel.app/ Video Presentation: (add your Unlisted YouTube link here before submitting)
+Team: Farah, Tahiya Tasnim, Vesyal, Maryam Ahmed Problem Statement: Travel Planner GitHub Repository: https://github.com/FrhKml09/Waypoint Live Prototype: https://waypoint-snowy-tau.vercel.app/ Video Presentation: 
+
+https://canva.link/gs82nu4g21osoc4 Slides
 
 1. Project Overview
 The Problem
